@@ -62,7 +62,7 @@
   height: 100%;
   top: 0px;
   right: 0px;
-  background: #1b182f;
+  background: #0285bf;
   z-index: 1;
   opacity: 0.8;
 }
@@ -221,14 +221,14 @@
   line-height: 75px;
   text-align: center;
   font-size: 24px;
-  color: #1b182f;
+  color: #0285bf;
   background: #fff;
   cursor: pointer;
   transition: all 500ms ease;
 }
 
 .banner-carousel .owl-nav button:hover{
-	background: #1b182f;
+	background: #0285bf;
 	color: #fff;
 }
 
@@ -422,7 +422,7 @@
   left: 0px;
   right: 0px;
   flex-wrap: wrap;
-  background: #1b182f;
+  background:#0285bf;
   z-index: 1;
   opacity: 0.8;
   width: 100%;
@@ -477,7 +477,7 @@
 }
 
 .service-section .inner-container{
-  border-bottom: 1px solid #d6d4dd;
+  border-bottom: 1px solid #0285bf;
 }
 
 .service-block-one .inner-box{
@@ -487,7 +487,7 @@
 .service-block-one .inner-box .lower-content:before{
   position: absolute;
   content: '';
-  background: #d6d4dd;
+  background:#0285bf;
   width: 95px;
   height: 95px;
   border-radius: 50%;
@@ -514,7 +514,7 @@
 }
 
 .bg-color-1{
-  background: #1b182f;
+  background: #0285bf;
 }
 
 .service-section .pattern-layer{
@@ -559,7 +559,7 @@
 .country-section .inner-content .single-item .flag:before{
   position: absolute;
   content: '';
-  border: 3px solid #fff;
+  border: 3px solid #0285bf;
   border-radius: 50%;
   width: 100%;
   height: 100%;
@@ -596,7 +596,7 @@
 
 .country-section .owl-theme .owl-dots .owl-dot.active span,
 .country-section .owl-theme .owl-dots .owl-dot span:hover{
-  background: #fff;
+  background: #0285bf;
   transform: scale(1.5);
 }
 
@@ -635,7 +635,7 @@
   right: -50px;
   bottom: -50px;
   font-size: 30px;
-  color: #fff;
+  color: #0285bf;
   font-weight: 900;
   width: 100px;
   height: 100px;
@@ -678,7 +678,7 @@
 
 .testimonial-section .owl-theme .owl-dots .owl-dot.active span,
 .testimonial-section .owl-theme .owl-dots .owl-dot span:hover{
-  background: #1b182f;
+  background: #0285bf;
   transform: scale(1.5);
 }
 
@@ -749,7 +749,7 @@
 }
 
 .coaching-block-one .inner-box .link a:hover{
-  color: #fff;
+  color: #0285bf;
 }
 
 .coaching-block-one .inner-box .overlay-content{
@@ -780,7 +780,7 @@
 .cta-section .inner-container .theme-btn{
   background: #fff;
   padding: 23.5px 70px;
-  color: #1b182f !important;
+  color: #0285bf !important;
 }
 
 .cta-section .inner-container .theme-btn:hover{
@@ -823,7 +823,7 @@
   left: 0px;
   right: 0px;
   flex-wrap: wrap;
-  background: #1b182f;
+  background: #0285bf;
   z-index: 1;
   opacity: 0.8;
   width: 100%;
@@ -857,7 +857,7 @@
   width: 100%;
   height: 100%;
   font-size: 0px;
-  color: #fff;
+  color: #0285bf;
   z-index: 1;
 }
 
@@ -871,7 +871,7 @@
 }
 
 .news-block-one .inner-box .post-info li a{
-  color: #73727c;
+  color: #0285bf;
 }
 
 .news-block-one .inner-box:hover{
@@ -881,7 +881,7 @@
 .news-block-one .inner-box .post-info li:before{
   position: absolute;
   content: '';
-  background: #a09fa5;
+  background: #0285bf;
   width: 5px;
   height: 1px;
   top: 16px;
@@ -915,7 +915,7 @@
 }
 
 .border-top{
-  border-top: 1px solid #d8d8df !important;
+  border-top: 1px solid #0285bf !important;
 }
 
 
@@ -944,7 +944,7 @@
   position: relative;
   font-size: 15px;
   line-height: 26px;
-  color: #9390a7;
+  color: #0285bf;
   padding-left: 30px;
   display: inline-block;
   cursor: pointer;
@@ -961,7 +961,7 @@
   border-radius: 50%;
   border-style: solid;
   border-width: 1px;
-  border-color: #484558;
+  border-color: #0285bf;
   background: transparent;
 }
 
@@ -975,7 +975,7 @@
   width: 19px;
   height: 19px;
   line-height: 19px;
-  color: #7f7c96;
+  color: #0285bf;
   opacity: 0;
   text-align: center;
 }
@@ -1094,7 +1094,7 @@
   left: 0px;
   right: 0px;
   flex-wrap: wrap;
-  background: #1b182f;
+  background: #0285bf;
   z-index: 1;
   opacity: 0.8;
   width: 100%;
@@ -1164,7 +1164,7 @@
 .country-block-one .inner-box .image-box .flag:before {
   position: absolute;
   content: '';
-  border: 3px solid #fff;
+  border: 3px solid #0285bf;
   border-radius: 50%;
   width: 100%;
   height: 100%;
@@ -1274,7 +1274,7 @@
 
 .content_block_2 .content-box .lower-box .info-box span{
   text-transform: uppercase;
-  color: #7f7c96;
+  color: #0285bf;
   letter-spacing: 1px;
 }
 
@@ -1361,7 +1361,7 @@
   width: 46px;
   height: 46px;
   line-height: 46px;
-  color: #73727c;
+  color: #0285bf;
   font-size: 14px;
   background: #f1f0f7;
   text-align: center;
@@ -1411,7 +1411,7 @@
 .team-block-one .inner-box .image-box:before{
   position: absolute;
   content: '';
-  background: #1b182f;
+  background: #0285bf;
   width: 100%;
   height: 100%;
   left: 0px;
@@ -1455,7 +1455,7 @@
 .team-section .owl-theme .owl-dots .owl-dot.active span,
 .team-section .owl-theme .owl-dots .owl-dot span:hover{
   transform: scale(1.5);
-  background: #000;
+  background: #0285bf;
 }
 
 .team-block-one .inner-box{
@@ -1566,13 +1566,13 @@
 }
 
 .news-block-two .inner-box .post-info li a{
-  color: #73727c;
+  color: #0285bf;
 }
 
 .news-block-two .inner-box .post-info li:before{
   position: absolute;
   content: '';
-  background: #a09fa5;
+  background: #0285bf;
   width: 5px;
   height: 1px;
   top: 16px;
@@ -1588,7 +1588,7 @@
 .page-title:before{
   position: absolute;
   content: '';
-  background: #1b182f;
+  background: #0285bf;
   width: 100%;
   height: 100%;
   left: 0px;
@@ -1601,12 +1601,12 @@
 }
 
 .page-title .bread-crumb li{
-  color: #73727c;
+  color:#0285bf ;
   text-transform: uppercase;
 }
 
 .page-title .bread-crumb li a{
-  color: #73727c;
+  color: #0285bf;
 }
 
 .page-title .bread-crumb li a:hover{
@@ -1616,7 +1616,7 @@
 .page-title .bread-crumb li:before{
   position: absolute;
   content: '';
-  background: #73727c;
+  background: #0285bf;
   width: 4px;
   height: 1px;
   top: 13px;
@@ -1677,7 +1677,7 @@
 
 .team-details .image-box .info li,
 .team-details .image-box .info li a{
-  color: #141417;
+  color: #0285bf;
 }
 
 .team-details .content-box .text span{
@@ -1692,7 +1692,7 @@
   border: solid;
   border-width: 1px;
   border-color: #e6e6e6;
-  color: #141417;
+  color: #0285bf;
 }
 
 .team-details .content-box .social-links li a:hover{
@@ -1721,7 +1721,7 @@
 }
 
 .progress-box p{
-  color: #141417;
+  color: #0285bf;
 }
 
 .default-form .form-group input[type='text'],
@@ -1733,7 +1733,7 @@
   background: #fff;
   border: 1px solid #d8d8df;
   font-size: 14px;
-  color: #797989;
+  color: #0285bf;
   padding: 15px 30px;
 }
 
@@ -1767,7 +1767,7 @@
 .coaching-sidebar .category-list li a:before{
   position: absolute;
   content: '';
-  background: #1b182f;
+  background: #0285bf;
   width: 0%;
   height: 100%;
   left: 0px;
@@ -1793,7 +1793,7 @@
 }
 
 .coaching-sidebar .download-widget li .icon-box{
-  background: #1b182f;
+  background: #0285bf;
 }
 
 .coaching-sidebar .download-widget li span{
@@ -1808,7 +1808,7 @@
 .coaching-sidebar .support-widget .inner-box:before{
   position: absolute;
   content: '';
-  background: #1b182f;
+  background:#0285bf;
   width: 100%;
   height: 100%;
   left: 0px;
@@ -1818,7 +1818,7 @@
 }
 
 .coaching-sidebar .support-widget .inner-box p{
-  color: #9390a7;
+  color: #0285bf;
 }
 
 .coaching-sidebar .support-widget .inner-box h4 a:hover{
@@ -1944,7 +1944,7 @@
   display: block;
   font-size: 18px;
   line-height: 36px;
-  color: #73727c;
+  color: #0285bf;
   margin-bottom: 25px;
 }
 
@@ -1954,7 +1954,7 @@
 
 .contact-section .info-inner .info-list li a{
   display: inline-block;
-  color: #73727c;
+  color: #0285bf;
 }
 
 .contact-section .info-inner .info-list li a:hover{
@@ -1980,7 +1980,7 @@
   line-height: 45px;
   background: #f1f0f7;
   font-size: 15px;
-  color: #73727c;
+  color: #0285bf;
   text-align: center;
   border-radius: 50%;
 }

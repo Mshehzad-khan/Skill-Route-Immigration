@@ -164,7 +164,7 @@
 .owl-carousel .owl-video-wrapper {
   position: relative;
   height: 100%;
-  background: #000;
+  background: #0285bf;
 }
 .owl-carousel .owl-video-play-icon {
   position: absolute;
@@ -222,7 +222,7 @@
   position: relative;
   cursor: pointer;
   display: inline-block;
-  color: #898f9f;
+  color: #0285bf;
   margin: 0px 10px;
   transition: all 500ms ease;
 }
@@ -241,7 +241,7 @@
     display: inline-block;
 }
 .owl-theme .owl-dots .owl-dot span {
-  background: #222;
+  background: #0285bf;
   display: block;
   margin: 0px 5px 0px 5px;
   transition: opacity 200ms ease 0s;
